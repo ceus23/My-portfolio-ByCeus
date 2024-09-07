@@ -47,7 +47,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Leer más
+        label: Whatsapp
         altText: ''
         url: /
         showIcon: false
