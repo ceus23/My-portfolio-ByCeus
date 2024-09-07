@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Inicio
-colors: colors-d
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
