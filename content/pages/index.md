@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Portafolio de información personal
-    subtitle: Ing. Carlos E. Urdaneta S. |
+    subtitle: >-
+      Ing. Carlos E. Urdaneta S. | Gestión Organizacional, Supervisión de
+      Proyectos y Operaciones
     styles:
       self:
         height: auto
