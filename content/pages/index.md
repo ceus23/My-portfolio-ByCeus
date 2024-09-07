@@ -52,7 +52,7 @@ sections:
     actions:
       - type: Link
         label: Revisar Curriculum Completo
-        url: /projects
+        url: /Ingeniería en Sistemas
     showDate: false
     showDescription: true
     showFeaturedImage: true
