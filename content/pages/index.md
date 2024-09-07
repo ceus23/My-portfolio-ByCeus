@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: Portafolio de información personal
     subtitle: >-
-      Ing. Carlos E. Urdaneta S. | Gestión Organizacional, Supervisión de
-      Proyectos y Operaciones
+      Ing. Carlos E. Urdaneta S. | Gestión Organizacional, Proyectos y
+      Operaciones
     styles:
       self:
         height: auto
