@@ -290,7 +290,7 @@ sections:
         text: |-
           **2015-2018**
 
-          * ba computer sciense at a semi fancy school
+          * BA Computer Science at a semi fancy school
 
           **2014**
 
